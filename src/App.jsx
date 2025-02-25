@@ -10,7 +10,7 @@ const IAASInfo = () => {
         className="mx-auto bg-white p-8 rounded-lg shadow-lg border border-green-300 relative"
       >
         <img 
-          src="/src/assets/IAAS.png" 
+          src="/IAAS.png" 
           alt="IAAS Banner" 
           className="w-48 h-48 object-cover rounded-md mb-4 justify-self-center"
         />
